@@ -1,0 +1,56 @@
+body {
+  margin : auto;
+  text-align: center;
+  background-color: rgb(33, 168, 33);
+}
+a {
+  text-decoration: none;
+  color: whitesmoke;
+}
+li {
+  list-style: none;
+}
+
+/* NavHeader css*/
+.nav-header a {
+  font-size: 1.5rem;
+  display: inline-block;
+  margin: 10px 30px 10px 30px;
+}
+.nav-header {
+  background-color: black;
+  border: 2px black solid;
+  padding: 30px;
+}
+.link-active {
+  color : rgb(33, 168, 33);
+  font-weight: bold;
+}
+
+/* Home css */
+/* Story css */
+.home,
+.story {
+  border: 1px solid black;
+  background-color: rgb(33, 168, 33);
+  color : whitesmoke;
+  width: 70%;
+  margin: auto; margin-top: 50px;
+  padding: 5px;
+}
+.home>div,
+.story>div {
+  background-color: black;
+  margin: 0;
+  padding: 40px; padding-bottom: 70px;
+}
+
+/* StoryList css */
+.story-list li {
+  display: inline-block;
+  margin: 0 30px 10px 30px;
+  background-color: rgb(33, 168, 33);
+  border: 1px solid black;
+  border-radius: 100%;
+  padding: 10px 30px 13px 30px;
+}
