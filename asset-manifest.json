@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/2023-react-router-test/static/css/main.023922a6.css",
+    "main.js": "/2023-react-router-test/static/js/main.f8161b1f.js",
+    "static/js/787.a49e5415.chunk.js": "/2023-react-router-test/static/js/787.a49e5415.chunk.js",
+    "index.html": "/2023-react-router-test/index.html",
+    "main.023922a6.css.map": "/2023-react-router-test/static/css/main.023922a6.css.map",
+    "main.f8161b1f.js.map": "/2023-react-router-test/static/js/main.f8161b1f.js.map",
+    "787.a49e5415.chunk.js.map": "/2023-react-router-test/static/js/787.a49e5415.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.023922a6.css",
+    "static/js/main.f8161b1f.js"
+  ]
+}
